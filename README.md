@@ -96,8 +96,8 @@ supabase/
 ## 🖼️ Captures d’écran (optionnel)
 
 ```md
-![Home Page](screenshots/img_1.png)
-![Rooms Page](screenshots/img_2.png)
+![Home Page](/src/screenshots/img_1.png)
+![Rooms Page](/src/screenshots/img_2.png)
 ````
 
 ---
