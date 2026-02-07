@@ -95,10 +95,16 @@ supabase/
 
 ## 🖼️ Captures d’écran (optionnel)
 
-```md
-![Home Page](/src/screenshots/img_1.png)
-![Rooms Page](/src/screenshots/img_2.png)
 ````
+## 🖼️ Captures d’écran
+
+> Cette section permet de présenter visuellement l’application sur GitHub.
+
+### 🏠 Accueil
+![Accueil](/src/screenshots/img_1.png)
+
+### 👕 Section Room page
+![Room page](/src/screenshots/img_2.png)
 
 ---
 
